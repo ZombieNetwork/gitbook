@@ -5,7 +5,7 @@
 ## The Company
 
 * [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team! Test](the-company/meet-the-team-test.md)
+* [Meet the Team! Test2](the-company/meet-the-team-test2.md)
 
 ## The Formal Stuff
 
