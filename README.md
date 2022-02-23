@@ -53,3 +53,18 @@ coverY: 0
 <mark style="color:red;">**\[해설 보완 하기 ]**</mark>
 
 기존 디파이는 동물원처럼 유튜피아적으로 좋아 보이지만, 초반에만 높은 수익을 기대할 수 있고 후반으로 갈 수록 가격은 하락합니다.  좀비네트워크에서 다 같이 약물 거부하고 사냥 = 장기 스테이킹 해서 높은 수익률 기대할 수 있다는 의미이고밖으로 나가면 (기존 디파이 시스템을 벗어나면) 며칠을 떠돌며 (장기 스테이킹을 해야한다) 하지만 다같이 합심해서 사냥을 했을 때는 좀비 세상을 만들 수 있다는 결말로 끝이 납니다.
+
+
+
+* <mark style="color:red;">**보완해야 할 사항**</mark>
+  * <mark style="color:red;">팀과 비전 / 로드맵</mark>
+  * <mark style="color:red;">NFT 토큰 관련 사항</mark>
+  * <mark style="color:red;">Reservoir 파트 보완</mark>
+  * <mark style="color:red;">좀비 네트워크 스토리 해설 보완</mark>
+  * <mark style="color:red;">Launch Plan</mark>
+  * <mark style="color:red;">BLOOD 토큰 개요</mark>
+  * <mark style="color:red;">공식 링크 세트</mark>
+  * <mark style="color:red;">유투브 소개 영상</mark>
+  * <mark style="color:red;">깃북 커버 이미지 등</mark>
+  * <mark style="color:red;">기능 화면 UX 디자인 반영</mark>
+  * <mark style="color:red;">메뉴명/용어 최종 확정 및 수정 반영</mark>
