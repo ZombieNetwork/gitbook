@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [좀비 네트워크 개요](README.md)
 
 ## The Company
 
