@@ -2,33 +2,33 @@
 
 * [좀비 네트워크 개요](README.md)
 
-## The Company
+## 좀비 네트워크 특징
 
-* [Page 1](the-company/page-1.md)
-* [Page 2](the-company/page-2.md)
-* [Page 3](the-company/page-3.md)
-* [Page 4](the-company/page-4.md)
+* [하루 1% 확정 이자 수익](undefined-1/1.md)
+* [디플레이셔너리 코인](undefined-1/undefined.md)
+* [TAX 시스템 및 Whale Tax](undefined-1/tax-whale-tax.md)
+* [추천인 보상 제도](undefined-1/undefined-1.md)
 
-## The Formal Stuff
+## 좀비 네트워크 이용가이드
 
-* [Page 7](the-formal-stuff/page-7.md)
-* [Page 6](the-formal-stuff/page-6.md)
-* [Page 5](the-formal-stuff/page-5.md)
+* [SWAP](undefined-2/swap.md)
+* [Staking](undefined-2/staking.md)
+* [Farming](undefined-2/farming.md)
 
-## Copy of The Formal Stuff
+## 투자자 유의사항
 
-* [Page 8](copy-of-the-formal-stuff/page-8.md)
-* [Page 12](copy-of-the-formal-stuff/page-12.md)
-* [Page 11](copy-of-the-formal-stuff/page-11.md)
-* [Page 10](copy-of-the-formal-stuff/page-10.md)
-* [Page 9](copy-of-the-formal-stuff/page-9.md)
-* [Copy of Page 7](copy-of-the-formal-stuff/copy-of-page-7.md)
-* [Copy of Page 6](copy-of-the-formal-stuff/copy-of-page-6.md)
-* [Copy of Page 5](copy-of-the-formal-stuff/copy-of-page-5.md)
+* [DeFi 문제점과 좀비 네트워크](undefined-3/defi.md)
+* [좀비 네트워크 장기 지속 가능성](undefined-3/undefined.md)
+* [폰지 사기 또는 다단계와 다른점](undefined-3/undefined-1.md)
+* [코인 가격 변동성에 따른 위험](undefined-3/undefined-2.md)
+* [뱅크런 발생 위험](undefined-3/undefined-3.md)
+* [러그풀 위험](undefined-3/undefined-4.md)
+* [DRIP Network 핵심 로직 적용](undefined-3/drip-network.md)
+* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-5.md)
 
-## Copy of Copy of The Formal Stuff
+## 참고 사항
 
-* [Copy of Page 8](copy-of-copy-of-the-formal-stuff/copy-of-page-8.md)
-* [Copy of Page 12](copy-of-copy-of-the-formal-stuff/copy-of-page-12.md)
-* [Copy of Page 11](copy-of-copy-of-the-formal-stuff/copy-of-page-11.md)
-* [Copy of Page 10](copy-of-copy-of-the-formal-stuff/copy-of-page-10.md)
+* [좀비 네트워크 팀과 비전](undefined-4/undefined.md)
+* [Launch Plan](undefined-4/launch-plan.md)
+* [BLOOD 토큰 개요](undefined-4/blood.md)
+* [공식 링크](undefined-4/undefined-1.md)
