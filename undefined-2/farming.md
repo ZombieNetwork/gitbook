@@ -1,3 +1,7 @@
+---
+description: BLOOD-KLAY 유동성 Pool 제공 메뉴
+---
+
 # Farming
 
 ### Data

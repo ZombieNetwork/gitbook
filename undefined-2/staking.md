@@ -1,3 +1,7 @@
+---
+description: BLOOD 코인 단일 예치 및 관리 메뉴
+---
+
 # Staking
 
 ### Data
