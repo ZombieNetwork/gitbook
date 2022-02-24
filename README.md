@@ -77,7 +77,7 @@ DeFi 3.0은 프토토콜 자체 유동성 공급이라는 DeFi 2.0의 장점을 
   * <mark style="color:red;">Launch Plan</mark>
   * <mark style="color:red;">BLOOD 토큰 개요</mark>
   * <mark style="color:red;">공식 링크 세트</mark>
-  * <mark style="color:red;">유투브 소개 영상</mark>
+  * ~~<mark style="color:red;">유투브 소개 영상</mark>~~ <mark style="color:red;"></mark><mark style="color:red;">=> 추후 반영</mark> &#x20;
   * ~~<mark style="color:red;">깃북 커버 이미지 등</mark>~~
-  * ~~<mark style="color:red;">기능 화면 UX 디자인 반영 => 추후 반영</mark>~~&#x20;
+  * ~~<mark style="color:red;">기능 화면 UX 디자인 반영 =></mark>~~ <mark style="color:red;"></mark><mark style="color:red;">추후 반영</mark>&#x20;
   * <mark style="color:red;">메뉴명/용어 최종 확정 및 수정 반영</mark>
