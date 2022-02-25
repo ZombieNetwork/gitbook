@@ -13,7 +13,7 @@
 
 * [Swap](undefined-2/swap.md)
 * [Staking](undefined-2/staking.md)
-* [Farm](undefined-2/farm.md)
+* [Farm](undefined-2/farming.md)
 
 ## 투자자 유의사항
 
