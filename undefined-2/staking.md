@@ -1,5 +1,5 @@
 ---
-description: BLOOD 코인 단일 예치 및 관리 메뉴
+description: BLOOD 토큰 단일 예치 및 관리 메뉴
 ---
 
 # Staking
@@ -22,7 +22,7 @@ description: BLOOD 코인 단일 예치 및 관리 메뉴
 
 {% endhint %}
 
-### Deposit: BLOOD 코인 Staking (단일 예치) 기능
+### Deposit: BLOOD 토 Staking (단일 예치) 기능
 
 지갑에 보유하고 있는 BLOOD 토큰을 좀비 네트워크에 예치할 수 있는 기능입니다. 예치하고자 하는 수량을 입력하신 후 Deposit(예치) 버튼을 클릭하시면 됩니다. Deposit(예치) 기능 수행 시 예치하고자 하는 수량의 10%는 세금이 부과되어 차감되며, 90%의 수량만큼만 예치되게 됩니다(\[참고] 좀비 네트워크 특징 > Tax 시스템). BLOOD 토큰을 예치하는 즉시 하루 1% 이자 지급이 개시 됩니다.
 
