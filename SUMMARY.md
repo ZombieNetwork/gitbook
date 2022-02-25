@@ -11,9 +11,9 @@
 
 ## 좀비 네트워크 이용가이드
 
-* [SWAP](undefined-2/swap.md)
+* [Swap](undefined-2/swap.md)
 * [Staking](undefined-2/staking.md)
-* [Farming](undefined-2/farming.md)
+* [Farm](undefined-2/farm.md)
 
 ## 투자자 유의사항
 
