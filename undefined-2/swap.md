@@ -1,8 +1,8 @@
 ---
-description: BLOOD 토큰 거래 메뉴
+description: 'BLOOD Store: LOOD 토큰 거래 메뉴'
 ---
 
-# SWAP
+# Swap
 
 ### Data
 

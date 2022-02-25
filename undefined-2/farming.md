@@ -1,5 +1,5 @@
 ---
-description: BLOOD-KLAY 유동성 Pool 제공 메뉴
+description: 'BLOOD Reservoir: BLOOD-KLAY 유동성 Pool 제공 메뉴'
 ---
 
 # Farm
