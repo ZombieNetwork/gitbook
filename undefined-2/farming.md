@@ -22,7 +22,7 @@ description: BLOOD-KLAY 유동성 Pool 제공 메뉴
 
 ### Buy and Deposit: BLOOD-KLAY 유동성 공급 기능
 
-BLOOD-KLAY 유동성 풀에 대한 유동성 공급은 KLAY 코인으로 BLOOD 토큰을 구매하면서 BLOOD-KLAY 페어를 구성하는 형태로 이루어집니다. 이때 BLOOD-KLAY 페어로 구성된 BLOOD-KLAY LP 토큰 그에 상응하는 수량만큼 생성됩니다. 현재 지갑에 보유하고 있는 KLAY 수량 중에서 유동성 공급에 예치할 KLAY 수량을 입력하면 하단에 이에 상응하는 예상되는 BLOOD-KLAY LP 토큰 구매량이 표시됩니다. 구매를 실행하시려면 BUY(구매) 버튼을 클릭하시면 됩니다.
+BLOOD-KLAY 유동성 풀에 대한 유동성 공급은 KLAY 코인으로 BLOOD 토큰을 구매하면서 BLOOD-KLAY 페어를 구성하는 형태로 이루어집니다. 현재 지갑에 보유하고 있는 KLAY 수량 중에서 유동성 공급에 예치할 KLAY 수량을 입력하면 하단에 이에 상응하는 예상되는 BLOOD-KLAY LP 토큰 구매량이 표시됩니다. 구매를 실행하시려면 BUY(구매) 버튼을 클릭하시면 됩니다.
 
 유동성 공급 시에도 10%의 거래세가 부과됩니다. BLOOD-KLAY LP 토큰을 구매하는 데 사용된 KLAY의 2%는 즉시 유동성 공급자들에게 유동성 공급 비율대로 분배하여 지급됩니다. 5%는 Farm 계약 배당금 풀로 이동하는데, Farm 계약 배당금풀에 쌓인 전체 금액 중 2%를 매일 유동성 공급자들에 분배하여 지급합니다. 나머지 3%는 BLOOD-KLAY 유동성풀에 잠기게(Lock in) 됩니다.
 
