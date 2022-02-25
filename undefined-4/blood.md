@@ -2,7 +2,7 @@
 
 ### BLOOD 토큰 정보
 
-* Ticker: BLD
+* Ticker: BLOOD
 * Contract Address: 오픈 이후 추후 공개
 * Chain: Klaytn (Cypress)
 * Format: KIP7 (ERC20)
