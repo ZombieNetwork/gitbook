@@ -13,7 +13,7 @@ cover: .gitbook/assets/Screen Shot 2022-02-24 at 2.32.46 PM.png
 
 > **BLOOD 토큰의 구매, 예치, 재예치, 인출, 판매, 전송 등 모든 거래에는 5 % \~ 10%의 세금이 부과되고, 이 세금은 모두 Tax Pool에 쌓이게 됩니다. 참여자에게 지급되는 이자 및 보상금은 이 Tax Pool 에 쌓인 자금에서 지급됩니다.**
 
-> **좀비 네트워크는 KLAY-BLOOD 유동성 풀을 운영합니다. KLAY 코인을 예치  예치함으로써 KLAY-BLOOD 풀 유동성 제공자 역할을 할 수 있으며 보상금으로 KLAY 코인을 지급 받습니다.**
+> **좀비 네트워크는 BLOOD-KLAY 유동성 풀을 운영합니다. KLAY 코인을 예치함으로써 BLOOD-KLAY 풀 유동성 제공자 역할을 할 수 있으며 보상금으로 KLAY 코인을 지급 받습니다.**
 
 {% hint style="info" %}
 **DeFi 3.0:** DeFi 2.0은 올림푸스DAO로 대표되는 서비스로 현재까지 100여 개 이상의 유사 서비스가 런칭 되었습니다. 초기 DeFi 서비스는 유동성 공급을 투자자들에게만 의존하다 보니 시장 상황에 따라 투자자들이 유동성을 해제하고 떠나게 될 경우 생태계가 급격히 무너지는 문제점이 발생했습니다.&#x20;
@@ -65,19 +65,4 @@ DeFi 3.0은 프토토콜 자체 유동성 공급이라는 DeFi 2.0의 장점을 
 
 <mark style="color:red;">**\[해설 보완 하기 ]**</mark>
 
-기존 디파이는 동물원처럼 유튜피아적으로 좋아 보이지만, 초반에만 높은 수익을 기대할 수 있고 후반으로 갈 수록 가격은 하락합니다.  좀비네트워크에서 다 같이 약물 거부하고 사냥 = 장기 스테이킹 해서 높은 수익률 기대할 수 있다는 의미이고밖으로 나가면 (기존 디파이 시스템을 벗어나면) 며칠을 떠돌며 (장기 스테이킹을 해야한다) 하지만 다같이 합심해서 사냥을 했을 때는 좀비 세상을 만들 수 있다는 결말로 끝이 납니다.
-
-
-
-* <mark style="color:red;">**보완해야 할 사항**</mark>
-  * <mark style="color:red;">팀과 비전 / 로드맵</mark>
-  * <mark style="color:red;">NFT 토큰 관련 사항</mark>
-  * <mark style="color:red;">Reservoir 파트 보완</mark>
-  * <mark style="color:red;">좀비 네트워크 스토리 해설 보완</mark>
-  * <mark style="color:red;">Launch Plan</mark>
-  * <mark style="color:red;">BLOOD 토큰 개요</mark>
-  * <mark style="color:red;">공식 링크 세트</mark>
-  * ~~<mark style="color:red;">유투브 소개 영상</mark>~~ <mark style="color:red;"></mark><mark style="color:red;">=> 추후 반영</mark> &#x20;
-  * ~~<mark style="color:red;">깃북 커버 이미지 등</mark>~~
-  * ~~<mark style="color:red;">기능 화면 UX 디자인 반영 =></mark>~~ <mark style="color:red;"></mark><mark style="color:red;">추후 반영</mark>&#x20;
-  * <mark style="color:red;">메뉴명/용어 최종 확정 및 수정 반영</mark>
+<mark style="color:orange;">기존 디파이는 동물원처럼 유튜피아적으로 좋아 보이지만, 초반에만 높은 수익을 기대할 수 있고 후반으로 갈 수록 가격은 하락합니다.  좀비네트워크에서 다 같이 약물 거부하고 사냥 = 장기 스테이킹 해서 높은 수익률 기대할 수 있다는 의미이고밖으로 나가면 (기존 디파이 시스템을 벗어나면) 며칠을 떠돌며 (장기 스테이킹을 해야한다) 하지만 다같이 합심해서 사냥을 했을 때는 좀비 세상을 만들 수 있다는 결말로 끝이 납니다.</mark>
