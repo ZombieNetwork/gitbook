@@ -9,4 +9,4 @@
 ![DRIP Network 월별 신규 가입자  &#x20;
 ](<../.gitbook/assets/DRIP 신규사용자.PNG>)
 
-![DRIP 토큰 일별 가격추이  ](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/BTC DRIP 추세 비교.PNG>)
