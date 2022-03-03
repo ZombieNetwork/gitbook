@@ -1,6 +1,6 @@
 # Launch Plan
 
-### White List Presale
+### White List Pre Launch
 
 #### 주요  정보&#x20;
 
@@ -20,10 +20,10 @@
 
 * 화이트리스트 신청 기간: <mark style="color:red;">UTC 시간 기준 표시 ? or 한국시간기준표시?</mark> &#x20;
 * 화이트리스트 선정 발표:
-* 화이트리스트  Pre Sale 시작:&#x20;
-* 화이트리스트 Pre Sale 종료:&#x20;
+* 화이트리스트  Pre Launch 시작:&#x20;
+* 화이트리스트 Pre Launch 종료:&#x20;
 
-### Public Presale&#x20;
+### Public Pre Launch&#x20;
 
 #### 주요 정보
 
@@ -34,10 +34,10 @@
 
 #### 세부 일정
 
-* Public Presale 시작:
-* Public Presale 종료:
+* Public Pre Launch 시작:
+* Public Pre Launch 종료:
 
-### 좀비 네트워크 오픈
+### Official Launch
 
-* 런칭:  4월 초 서비스 오픈 및 Bloody NFT 판매&#x20;
+* 4월 초 서비스 오픈 및 Bloody NFT 판매&#x20;
 
