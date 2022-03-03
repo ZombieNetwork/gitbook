@@ -1,7 +1,9 @@
-# 공식 링크
+# 좀비 네트워크 팀과 로드맵
 
-* **Website:** [https://zombie-network.fi](https://zombie-network.fi)
-* **Medium:** [https://medium.com/@zombienetwork](https://medium.com/@zombienetwork)
-* **Twitter:** [https://twitter.com/ZombieNetworkfi](https://twitter.com/ZombieNetworkfi)
-* **Telegram:** [https://t.me/zombienetworkofficial](https://t.me/zombienetworkofficial)
-* **Telegram(announcement):** [https://t.me/zombienetwork\_announce](https://t.me/zombienetwork\_announce)
+### 좀비 네트워크 개발팀
+
+좀비 네트워크 개발팀은 클레이튼 체인 기반에서 다수의 DeFi 프로젝트 개발 및 운영 경험을 가지고 있으며 파트너 업체들로부터 신뢰를 받고 있습니다. 앞으로도 지속적으로 혁신적인 DeFi 서비스를 개발해 나갈 계획입니다.
+
+### Roadmap
+
+좀비 &#x20;
