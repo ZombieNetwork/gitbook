@@ -9,4 +9,6 @@
 ![DRIP Network 월별 신규 가입자  &#x20;
 ](<../.gitbook/assets/DRIP 신규사용자.PNG>)
 
+![](<../.gitbook/assets/BTC DRIP 추세 비교 (1).PNG>)
+
 ![](<../.gitbook/assets/BTC DRIP 추세 비교.PNG>)
