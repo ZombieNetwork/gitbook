@@ -1,6 +1,6 @@
 ---
-coverY: 66.5469715698393
-cover: .gitbook/assets/캡처 (2).PNG
+coverY: 0
+cover: .gitbook/assets/gitbook-cover.png
 ---
 
 # 좀비 네트워크 개요
