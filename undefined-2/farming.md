@@ -7,7 +7,7 @@ description: 'BLOOD Reservoir: BLD-KLAY 유동성 Pool 제공 메뉴'
 ### Data
 
 {% hint style="info" %}
-**Rewards:** 유동성 풀 제공 보상금으로써 KLAY-BLOOD 풀 유동성 제공에 따른 댓가로 받은 KLAY 수량 중 Compound(재예치, 유동성 추가 제공) 또는 Claim(인출) 등의 처리를 하지 않은 수량 입니다.
+**Rewards:** 유동성 풀 제공 보상금으로써 BLD-KLAY 풀 유동성 제공에 따른 가로 받은 KLAY 수량 중 Compound(재예치, 유동성 추가 제공) 또는 Claim(인출) 등의 처리를 하지 않은 수량 입니다.
 
 **Total BLD-KLAY:** 참여자가 KLAY 토큰으로 BLOOD 토큰을 구매하여 BLD-KLAY 풀 유동성 제공 시, BLD-KLAY LP 토큰이 생성되어 지급됩니다. 참여자가 보유하고 있는 전체 BLD-KLAY LP 토큰 수량이 표시됩니다. Rewards에 남아 있는 KLAY 수량을 Compound 할 경우 해당 KLAY 수량에 상응하는 BLD-KLAY LP 토큰 수량이 추가 됩니다.
 

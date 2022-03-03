@@ -1,5 +1,5 @@
 ---
-description: 'BLOOD Store: LOOD 토큰 거래 메뉴'
+description: 'BLOOD Store: BLOOD 토큰 거래 메뉴'
 ---
 
 # Swap
