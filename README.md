@@ -1,6 +1,6 @@
 ---
-coverY: 0
-cover: .gitbook/assets/Screen Shot 2022-02-24 at 2.32.46 PM.png
+coverY: 66.5469715698393
+cover: .gitbook/assets/캡처 (2).PNG
 ---
 
 # 좀비 네트워크 개요

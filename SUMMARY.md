@@ -28,7 +28,7 @@
 
 ## 참고 사항
 
-* [좀비 네트워크 팀과 비전](undefined-4/undefined.md)
 * [Launch Plan](undefined-4/launch-plan.md)
 * [BLOOD 토큰 개요](undefined-4/blood.md)
-* [공식 링크](undefined-4/undefined-1.md)
+* [Page 1](undefined-4/page-1.md)
+* [공식 링크](undefined-4/undefined.md)
