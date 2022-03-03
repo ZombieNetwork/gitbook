@@ -8,7 +8,7 @@ DRIP Network 서비스는 2021년 4월에 바이낸스 체인 기반에서 오�
 
 ![DRIP Network 월별 신규 가입자   ](<../.gitbook/assets/DRIP 신규사용자.PNG>)
 
-다음은 DRIP Network의 DRIP 토큰의 일별 가격 추이를 BTC 코인과 비교한 그래프 입니다. 암호화폐 시장을 상징하는 BTC 코인 가격 추세와 무관하게 DRIP Network 의 디플레이셔너리 토큰인 DRIP의 안정적 가격 지지 및 성장성을 보여주고 있습니다.                                  &#x20;
+다음은 DRIP Network의 DRIP 토큰의 일별 가격 추이를 BTC 코인과 비교한 그래프 입니다. 암호화폐 시장을 상징하는 BTC 코인 가격 추세와 무관하게 DRIP Network 의 디플레이셔너리 토큰인 DRIP 토큰 의 안정적 가격 지지 및 성장성을 보여주고 있습니다. DRIP 토큰은 총 발행량이 1,000,000개였지만, 현재 유통되고 있는 물량은 100,000 개 이하 입니다.                                          &#x20;
 
 ![일별 토큰 가격 추세 (BTC/DRIP 비교)   ](<../.gitbook/assets/BTC DRIP 추세 비교 (1).PNG>)
 
