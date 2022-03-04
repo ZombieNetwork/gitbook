@@ -17,7 +17,7 @@
 
 |   **Content**  |  **Amount (Ratio)**  |
 | :------------: | :------------------: |
-|     Presale    |   600,000 BLD (60%)  |
+|   Pre-launch   |   600,000 BLD (60%)  |
 | Initial Supply |   200,000 BLD (20%)  |
 |    Marketing   |    50,000 BLD (5%)   |
 |      Team      |   150,000 BLD (15%)  |
