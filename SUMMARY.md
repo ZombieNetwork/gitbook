@@ -14,6 +14,8 @@
 * [Swap](undefined-2/swap.md)
 * [Staking](undefined-2/staking.md)
 * [Farm](undefined-2/farming.md)
+* [Team](undefined-2/team.md)
+* [NFT](undefined-2/nft.md)
 
 ## 투자자 유의사항
 
