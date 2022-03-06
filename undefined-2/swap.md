@@ -11,7 +11,7 @@ description: 'BLOOD Store: BLOOD 토큰 거래 메뉴'
 
 **KLAY Balance:** 현재 연결된 지갑의 KLAY 잔고 및 KUSDT 기준 금액입니다.&#x20;
 
-**BLOOD Balance:** 현재 연결된 지갑의 BLOOD 잔고 및 KUSDT 기준 금액입니다.
+**BLD Balance:** 현재 연결된 지갑의 BLD 잔고 및 KUSDT 기준 금액입니다.
 {% endhint %}
 
 ### Buy BLOOD: BLOOD 토큰 구매 기능
