@@ -7,11 +7,11 @@ description: 'BLOOD Store: BLOOD 토큰 거래 메뉴'
 ### Data
 
 {% hint style="info" %}
-**Price:** KLAY/BLOOD 현재 가격 및 KUSDT 기준 금액입니다.&#x20;
+**Price:** KLAY/BLOOD 현재 가격 및 USDT 기준 금액입니다.&#x20;
 
-**KLAY Balance:** 현재 연결된 지갑의 KLAY 잔고 및 KUSDT 기준 금액입니다.&#x20;
+**KLAY Balance:** 현재 연결된 지갑의 KLAY 잔고 및 USDT 기준 금액입니다.&#x20;
 
-**BLD Balance:** 현재 연결된 지갑의 BLD 잔고 및 KUSDT 기준 금액입니다.
+**BLD Balance:** 현재 연결된 지갑의 BLD 잔고 및 USDT 기준 금액입니다.
 {% endhint %}
 
 ### Buy BLOOD: BLOOD 토큰 구매 기능
