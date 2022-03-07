@@ -7,6 +7,8 @@ description: >-
 
 # Farm
 
+![](../.gitbook/assets/farm.PNG)
+
 ### Data
 
 {% hint style="info" %}

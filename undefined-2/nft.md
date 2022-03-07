@@ -6,6 +6,8 @@ description: >-
 
 # NFT
 
+![](<../.gitbook/assets/nft store.PNG>)
+
 ### NFT Store
 
 Bloody NFT를 구매하는 기능 입니다. Bloody NFT의 판매 수량은 한정되어 있으며 종류는 다양합니다. 원하는 Bloody NFT를 골라서 필요한 수량만큼 구매하시면 되며, 종류별로 기능의 차이는 없습니다.
