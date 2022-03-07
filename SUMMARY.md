@@ -29,7 +29,7 @@
 
 ## 참고 사항
 
-* [Launch Plan](undefined-4/launch-plan.md)
+* [IDO Plan](undefined-4/ido-plan.md)
 * [BLOOD 토큰 개요](undefined-4/blood.md)
 * [좀비 네트워크 팀과 로드맵](undefined-4/undefined.md)
 * [공식 링크](undefined-4/undefined-1.md)
