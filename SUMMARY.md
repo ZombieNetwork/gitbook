@@ -25,8 +25,7 @@
 * [토큰 가격 변동성에 따른 위험](undefined-3/undefined-2.md)
 * [뱅크런 발생 위험](undefined-3/undefined-3.md)
 * [러그풀 위험](undefined-3/undefined-4.md)
-* [검증된 핵심 비즈니스 로직 적용](undefined-3/undefined-5.md)
-* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-6.md)
+* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-5.md)
 
 ## 참고 사항
 
