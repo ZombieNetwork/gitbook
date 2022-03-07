@@ -8,6 +8,8 @@
 * Format: KIP7 (ERC20)
 * Decimal: 18
 * Total Supply: 1,000,000 BLD
+* Token image :\
+  &#x20;                           ![](../.gitbook/assets/BLDcoin.png)
 
 
 
