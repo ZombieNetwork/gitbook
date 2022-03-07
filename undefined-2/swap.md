@@ -12,11 +12,11 @@ description: >-
 ### Data
 
 {% hint style="info" %}
-**Price:** KLAY/BLD 현재 가격 및 USDT 기준 금액입니다.&#x20;
+**Price:** USDT 기준 금액입니다.&#x20;
 
-**KLAY Balance:** 현재 연결된 지갑의 KLAY 잔고 및 USDT 기준 금액입니다.&#x20;
+**KLAY Balance:** 현재 연결된 지갑의 KLAY 잔고입니다.&#x20;
 
-**BLD Balance:** 현재 연결된 지갑의 BLD 잔고 및 USDT 기준 금액입니다.
+**BLD Balance:** 현재 연결된 지갑의 BLD 잔고입니다.
 {% endhint %}
 
 ### Buy BLD: BLOOD 토큰 구매 기능
