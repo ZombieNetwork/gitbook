@@ -6,6 +6,8 @@ description: >-
 
 # Staking
 
+![](../.gitbook/assets/staking.PNG)
+
 ### Data
 
 {% hint style="info" %}
