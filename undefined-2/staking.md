@@ -6,7 +6,7 @@ description: >-
 
 # Staking
 
-![](../.gitbook/assets/staking.PNG)
+![](<../.gitbook/assets/Blood Center.PNG>)
 
 ### Data
 
