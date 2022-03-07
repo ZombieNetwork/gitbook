@@ -4,25 +4,28 @@
 
 ### 가격&#x20;
 
-* WhiteList Pre-launch: 1BLD : 5.7 KLAY
-* Public Pre-launch: 1BLD : 6 KLAY
+#### WhiteList Pre-launch: 1BLD : 5.7 KLAY
 
-&#x20;    (위의 토큰 가격은 Pre-launch 시작일 기준으로 변경될 수 있습니다.)
+#### Public Pre-launch: 1BLD : 6 KLAY
+
+(위의 토큰 가격은 Pre-launch 시작일 기준으로 변경될 수 있습니다.)
 
 ### 판매 수익금 운용 계획 (KLAY)
 
-* 판매량의 80% : 유동성 공급 (280만개)
-* 판매량의 10% : 개발/마케팅 자원 (35만개)
-* 판매량의 10% : BLOOD 바이백 자원 (35만개)
+#### 판매량의 80% : 유동성 공급 (280만개)
+
+#### 판매량의 10% : 개발/마케팅 자원 (35만개)
+
+#### 판매량의 10% : BLOOD 바이백 자원 (35만개)
 
 ## **IDO 계획**
 
-IDO는 화이트리스트 Pre-launch와 퍼블릭 Pre-launch로 나누어 2단계로 진행할 예정입니다.
+#### IDO는 화이트리스트 Pre-launch와 퍼블릭 Pre-launch로 나누어 2단계로 진행할 예정입니다.
 
 1. 화이트리스트 Pre-launch는 지정된 기준을 충족하여 화이트리스트 자격을 획득한 분들만 참여 가능합니다.
 2. 퍼블릭 Pre-launch는 누구나 참여 가능하며 BLOOD 토큰을 구매할 수 있습니다.
 
-IDO는 Zombie Network 웹사이트 ([https://zombie-network.fi](https://zombie-network.fi))에서 진행됩니다.
+#### IDO는 Zombie Network 웹사이트 ([https://zombie-network.fi](https://zombie-network.fi))에서 진행됩니다.
 
 ### 화이트리스트 Pre-Launch
 
@@ -39,7 +42,7 @@ IDO는 Zombie Network 웹사이트 ([https://zombie-network.fi](https://zombie-n
    * 예시: 트위터, 유튜브, 텔레그램, 카톡, 틱톡, 인스타그램, 블로그 (링크 또는 스크린샷)
    * 구글폼: [https://forms.gle/BDKyxyn87Akmsv8b9](https://forms.gle/BDKyxyn87Akmsv8b9)
 2. **추첨 미션 130개 (랜덤):** Gleam 이벤트페이지를 통해 좀비네트워크 트위터 팔로우와 리트윗, 텔레그램 커뮤니티와 공지방 입장, 미디움 팔로우 미션 완료 후 지갑주소 작성
-   * 글림:
+   * 림:
 3. **밈 콘테스트 10개:** 좀비네트워크의 이름 및 로고를 사용한 밈 제작 후 댓글에 제작한 밈과 지갑주소(KaiKas, Klip, Dcent, Metamask) 작성 \[좋아요&리트윗 필수]
    * 트위터:
 4. **텔레그램 최다 초대자 10개:** 텔레그램 초대 봇을 통해 본인만의 초대 링크를 받아 지인 초대
