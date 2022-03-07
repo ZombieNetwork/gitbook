@@ -1,5 +1,8 @@
 ---
-description: 'BLOOD Store: BLOOD 토큰 거래 메뉴'
+description: >-
+  BLOOD Store: BLOOD 토큰($BLD)을 거래(Buy & Sell) 할 수 있는 기능 입니다. BLOOD 토큰을
+  Deposit(예치) 하려면 여기서 Buy 기능을 이용하여 BLOOD 토큰을 구매하셔야 합니다. 이자 수익을 Claim(인출) 한 후
+  Sell 기능을 이용하여 KLAY 토큰으로 교환하실 수 있습니다.
 ---
 
 # Swap

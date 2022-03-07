@@ -1,5 +1,7 @@
 ---
-description: 'BLOOD Center: BLOOD 토큰 단일 예치 및 관리 메뉴'
+description: >-
+  BLOOD Center: BLOOD 토큰($BLD)을 Deposit 하고 이자 수익을 관리하는 기능 입니다. BLOOD 토큰을 예치하면 하루
+  1%의 이자가 실시간으로 생성됩니다. 이자 수익은 언제든지 Compound(재예치) 또는 Claim(인출) 하실 수 있습니다.
 ---
 
 # Staking

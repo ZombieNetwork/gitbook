@@ -1,5 +1,8 @@
 ---
-description: 'BLOOD Reservoir: BLD-KLAY 유동성 Pool 제공 메뉴'
+description: >-
+  BLOOD Reservoir: BLD-KLAY 유동성 Pool 풀에 유동성을 공급하고 수익을 얻을 수 있는 기능 입니다. KLAY 코인으로
+  BLD-KLAY LP 토큰을 구매하면 자동으로 유동성 풀에 예치됩니다. 다양한 수익원을 통해 창출된 배당금을 유동성 참여 비율에 따라
+  KLAY 코인으로 분배 받으실 수 있습니다.
 ---
 
 # Farm
