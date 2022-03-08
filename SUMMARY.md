@@ -20,12 +20,13 @@
 ## 투자자 유의사항
 
 * [DeFi 문제점과 좀비 네트워크](undefined-3/defi.md)
-* [좀비 네트워크 장기 지속 가능성](undefined-3/undefined.md)
-* [폰지 사기 또는 다단계와 다른점](undefined-3/undefined-1.md)
-* [토큰 가격 변동성에 따른 위험](undefined-3/undefined-2.md)
-* [뱅크런 발생 위험](undefined-3/undefined-3.md)
-* [러그풀 위험](undefined-3/undefined-4.md)
-* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-6.md)
+* [좀비 네트워크 거래 시 유의 사항](undefined-3/undefined.md)
+* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-1.md)
+* [좀비 네트워크 장기 지속 가능성](undefined-3/undefined-2.md)
+* [폰지 사기 또는 다단계와 다른점](undefined-3/undefined-3.md)
+* [토큰 가격 변동성에 따른 위험](undefined-3/undefined-4.md)
+* [뱅크런 발생 위험](undefined-3/undefined-5.md)
+* [러그풀 위험](undefined-3/undefined-6.md)
 
 ## 참고 사항
 
