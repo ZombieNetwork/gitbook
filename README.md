@@ -1,6 +1,6 @@
 ---
 coverY: 0
-cover: .gitbook/assets/gitbook-cover2.png
+cover: .gitbook/assets/gitbook-cover (3).png
 ---
 
 # 좀비 네트워크 개요
