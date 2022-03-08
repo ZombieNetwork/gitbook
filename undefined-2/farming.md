@@ -12,7 +12,7 @@ description: >-
 ### Data
 
 {% hint style="info" %}
-**Avalable Rewards:** BLD-KLAY 유동성을 제공한 대가로 받은 KLAY 코인 수량 중 Compound(재예치, 유동성 추가 제공) 또는 Claim (인출) 등의 처리를 하지 않은 수량 입니다. BLD-KLAY 유동성 보상금은 배당금 풀에서 유동성 공급자의 예치 지분율에 따라 지급됩니다. 유동성 배당금 풀은 유동성 공급 및 해제 시 부과되는 거래세(Transaction Tax)를 통해 구성됩니다.
+**Available Rewards:** BLD-KLAY 유동성을 제공한 대가로 받은 KLAY 코인 수량 중 Compound(재예치, 유동성 추가 제공) 또는 Claim (인출) 등의 처리를 하지 않은 수량 입니다. BLD-KLAY 유동성 보상금은 배당금 풀에서 유동성 공급자의 예치 지분율에 따라 지급됩니다. 유동성 배당금 풀은 유동성 공급 및 해제 시 부과되는 거래세(Transaction Tax)를 통해 구성됩니다.
 
 **Total BLD-KLAY:** 참여자가 KLAY 토큰으로 BLOOD 토큰을 구매하여 BLD-KLAY 풀 유동성 제공 시, BLD-KLAY LP 토큰이 생성되어 지급됩니다. 참여자가 보유하고 있는 전체 BLD-KLAY LP 토큰 수량이 표시됩니다. Rewards에 남아 있는 KLAY 수량을 Compound 할 경우 해당 KLAY 수량에 상응하는 BLD-KLAY LP 토큰 수량이 추가 됩니다.
 
