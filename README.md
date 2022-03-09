@@ -13,7 +13,7 @@ cover: .gitbook/assets/gitbook-cover2.png
 
 > **BLOOD 토큰의 구매, 예치, 재예치, 인출, 판매, 전송 등 모든 거래에는 5 % \~ 10%의 세금이 부과되고, 이 세금은 모두 Tax Pool에 쌓이게 됩니다. 참여자에게 지급되는 이자 및 보상금은 이 Tax Pool에 쌓인 자금에서 지급됩니다.**
 
-> **좀비 네트워크는 BLD-KLAY 유동성 풀을 운영합니다. KLAY 단일 코인을 활용하여 BLD-KLAY 풀에 유동성을 제공할 수 있으며, 보상금으로 KLAY 코인을 지급 받습니다.**
+> **좀비 네트워크는 BLD-KLAY 유동성 풀을 운영합니다. KLAY 단일 코인을 활용하여 BLD-KLAY 풀에 유동성을 제공할 수 있으며, 보상금으로 KLAY 코인을 지급받습니다.**
 
 ![](.gitbook/assets/gitbook-1.png)
 
