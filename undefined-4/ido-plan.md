@@ -4,7 +4,7 @@
 
 ### 가격&#x20;
 
-#### WhiteList Pre-launch: 1BLD : 5.714 KLAY
+#### White List Pre-launch: 1BLD : 5.714 KLAY
 
 #### Public Pre-launch: 1BLD : 6.428 KLAY
 
@@ -47,7 +47,7 @@
 4. **텔레그램 최다 초대자 10개:** 텔레그램 초대 봇을 통해 본인만의 초대 링크를 받아 지인 초대
    * 텔레그램 초대 봇:[https://t.me/ZombieNetwork\_ReferralBot](https://t.me/ZombieNetwork\_ReferralBot)
    * 텔레그램에서 @ZombieNetwork\_ReferralBot을 이용해주세요.
-5. **파트너 프로젝트 NFT 보유자 100개:** 파트너십을 통해 파트너 프로젝트의 NFT 보유자에게 화이트리스트 자격을 드리고자 합니다. 파트너 프로젝트를 통해 이벤트를 진행하여 발표할 예정입니다. (파트너사는 협의되는대로 공개 예정)
+5. **파트너 프로젝트 NFT 보유자 100개:** 파트너십을 통해 파트너 프로젝트의 NFT 보유자에게 화이트리스트 자격을 드리고자 합니다. 파트너 프로젝트를 통해 이벤트를 진행하여 발표할 예정입니다. (파트너사는 협의되는 대로 공개 예정)
 
 ### 퍼블릭 Pre-launch &#x20;
 
