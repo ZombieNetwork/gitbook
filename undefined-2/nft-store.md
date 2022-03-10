@@ -6,7 +6,7 @@ description: >-
 
 # NFT Store
 
-![](../.gitbook/assets/NFT-Store.png)
+![](<../.gitbook/assets/NFT-Store (1).png>)
 
 ### NFT Store
 
