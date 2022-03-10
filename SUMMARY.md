@@ -2,35 +2,42 @@
 
 * [좀비 네트워크 개요](README.md)
 
-## 좀비 네트워크 특징
+## 좀비 네트워크 특징 <a href="#features" id="features"></a>
 
-* [하루 1% 확정 이자 수익](undefined-1/1.md)
-* [디플레이셔너리 토큰](undefined-1/undefined.md)
-* [TAX 시스템 및 Whale Tax](undefined-1/tax-whale-tax.md)
-* [추천인 보상 제도](undefined-1/undefined-1.md)
+* [하루 1% 확정 이자 수익](features/fixed-interest.md)
+* [디플레이셔너리 토큰](features/deflationary.md)
+* [TAX 시스템 및 Whale Tax](features/tax.md)
+* [추천인 보상 제도](features/referral.md)
 
-## 좀비 네트워크 이용가이드
+## 좀비 네트워크 이용가이드 <a href="#guide" id="guide"></a>
 
-* [Swap](undefined-2/swap.md)
-* [Staking](undefined-2/staking.md)
-* [Farm](undefined-2/farming.md)
-* [Team](undefined-2/team.md)
-* [NFT Store](undefined-2/nft-store.md)
+* [Swap](guide/swap.md)
+* [Staking](guide/staking.md)
+* [Farm](guide/farm.md)
+* [Team](guide/team.md)
+* [NFT Store](guide/nft-store.md)
 
-## 투자자 유의사항
+## 투자자 유의사항 <a href="#notice" id="notice"></a>
 
-* [DeFi 문제점과 좀비 네트워크](undefined-3/defi.md)
-* [좀비 네트워크 거래 시 유의 사항](undefined-3/undefined.md)
-* [투자 시뮬레이션 및 투자 전략](undefined-3/undefined-1.md)
-* [좀비 네트워크 장기 지속 가능성](undefined-3/undefined-2.md)
-* [폰지 사기 또는 다단계와 다른점](undefined-3/undefined-3.md)
-* [토큰 가격 변동성에 따른 위험](undefined-3/undefined-4.md)
-* [뱅크런 발생 위험](undefined-3/undefined-5.md)
-* [러그풀 위험](undefined-3/undefined-6.md)
+* [DeFi 문제점과 좀비 네트워크](notice/problems.md)
+* [좀비 네트워크 거래 시 유의 사항](notice/caution\_investment.md)
+* [투자 시뮬레이션 및 투자 전략](notice/simulation.md)
+* [좀비 네트워크 장기 지속 가능성](notice/sustainability.md)
+* [폰지 사기 또는 다단계와 다른점](notice/no\_scheme.md)
+* [토큰 가격 변동성에 따른 위험](notice/caution\_price.md)
+* [뱅크런 발생 위험](notice/bankrun.md)
+* [러그풀 위험](notice/rugpull.md)
 
-## 참고 사항
+## 참고 사항 <a href="#note" id="note"></a>
 
-* [IDO Plan](undefined-4/ido-plan.md)
-* [BLOOD 토큰 개요](undefined-4/blood.md)
-* [좀비 네트워크 팀과 로드맵](undefined-4/undefined.md)
-* [공식 링크](undefined-4/undefined-1.md)
+* [IDO Plan](note/ido\_plan.md)
+* [BLOOD 토큰 개요](note/blood\_token.md)
+* [좀비 네트워크 팀과 로드맵](note/roadmap.md)
+* [공식 링크](note/undefined.md)
+
+***
+
+* [좀비 네트워크](https://zombie-network.fi)
+* [Telegram](https://t.me/zombienetworkofficial)
+* [Medium](https://medium.com/@zombienetwork)
+* [Twitter](https://twitter.com/ZombieNetworkfi)
