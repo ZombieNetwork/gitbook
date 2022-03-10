@@ -41,3 +41,4 @@
 * [Telegram](https://t.me/zombienetworkofficial)
 * [Medium](https://medium.com/@zombienetwork)
 * [Twitter](https://twitter.com/ZombieNetworkfi)
+* [Telegram (announcement)](https://t.me/zombienetwork\_announce)
