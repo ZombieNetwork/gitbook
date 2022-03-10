@@ -81,3 +81,12 @@
 
 #### Zombie network Launch: 4월 초 (추후 정확한 오픈일 공개 예정)&#x20;
 
+
+
+## 지원하는 지갑 (Klaytn)
+
+* KaiKas
+* Klip
+* Metamask
+* Dcent
+
