@@ -46,9 +46,9 @@
    * 예시: 트위터, 유튜브, 텔레그램, 카톡, 틱톡, 인스타그램, 블로그 (링크 또는 스크린샷)
    * 구글폼: [https://forms.gle/BDKyxyn87Akmsv8b9](https://forms.gle/BDKyxyn87Akmsv8b9)
 2. **추첨 미션 130개 (랜덤):** Gleam 이벤트페이지를 통해 좀비 네트워크 트위터 팔로우와 리트윗, 텔레그램 커뮤니티와 공지방 입장, 미디움 팔로우 미션 완료 후 지갑주소 제출 , 참여된 지갑 주소 중 랜덤으로 130개 추첨&#x20;
-   * Gleam:
+   * Gleam: [https://gleam.io/Mk4Qd/-](https://gleam.io/Mk4Qd/-)
 3. **밈 콘테스트 10개(퀄리티):** 좀비네트워크의 이름 및 로고를 사용한 밈 제작 후 댓글에 본인이 제작한 밈과 지갑주소(KaiKas, Klip, Dcent, Metamask) 작성 \[좋아요&리트윗 필수], 참여작들 중 인기 있고 퀄리티 좋은 10명 선정
-   * 트위터:
+   * 트위터: [https://twitter.com/ZombieNetworkfi/status/1501774469496737793](https://twitter.com/ZombieNetworkfi/status/1501774469496737793)
 4. **텔레그램 최다 초대자 10개:** 텔레그램 초대 봇을 통해 본인만의 초대 링크를 받아 지인 초대, 가장 많이 초대한 10명 선정
    * 텔레그램 초대 봇:[https://t.me/ZombieNetwork\_ReferralBot](https://t.me/ZombieNetwork\_ReferralBot)
    * 텔레그램에서 @ZombieNetwork\_ReferralBot을 이용해주세요.
