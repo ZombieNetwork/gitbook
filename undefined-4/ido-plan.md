@@ -4,9 +4,9 @@
 
 ### 가격&#x20;
 
-#### White List Pre-launch: 1BLD : 5.714 KLAY
+#### White List Pre-launch: 1BLD : 5.7 KLAY
 
-#### Public Pre-launch: 1BLD : 6.428 KLAY
+#### Public Pre-launch: 1BLD : 6.4 KLAY
 
 (위의 토큰 가격은 Pre-launch 시작일 기준으로 약간의 변동이 있을 수 있습니다.)
 
