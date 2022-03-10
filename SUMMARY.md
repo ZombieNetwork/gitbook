@@ -39,6 +39,6 @@
 
 * [좀비 네트워크](https://zombie-network.fi)
 * [Telegram](https://t.me/zombienetworkofficial)
+* [Telegram (announcement)](https://t.me/zombienetwork\_announce)
 * [Medium](https://medium.com/@zombienetwork)
 * [Twitter](https://twitter.com/ZombieNetworkfi)
-* [Telegram (announcement)](https://t.me/zombienetwork\_announce)
