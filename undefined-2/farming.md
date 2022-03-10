@@ -7,7 +7,7 @@ description: >-
 
 # Farm
 
-![](<../.gitbook/assets/Blood Reservoir.PNG>)
+![](../.gitbook/assets/Farm-page.png)
 
 ### Data
 
