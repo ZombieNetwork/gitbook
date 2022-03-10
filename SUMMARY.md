@@ -33,9 +33,8 @@
 * [IDO Plan](note/ido\_plan.md)
 * [BLOOD 토큰 개요](note/blood\_token.md)
 * [좀비 네트워크 팀과 로드맵](note/roadmap.md)
-* [공식 링크](note/undefined.md)
 
-***
+## 공식 링크 <a href="#links" id="links"></a>
 
 * [좀비 네트워크](https://zombie-network.fi)
 * [Telegram](https://t.me/zombienetworkofficial)
