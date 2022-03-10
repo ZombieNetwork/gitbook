@@ -7,7 +7,7 @@ description: >-
 
 # Swap
 
-![](<../.gitbook/assets/Blood Store.PNG>)
+![](../.gitbook/assets/Swap.png)
 
 ### Data
 

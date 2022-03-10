@@ -7,7 +7,7 @@ description: >-
 
 # Farm
 
-![](../.gitbook/assets/Farm-page.png)
+![](../.gitbook/assets/Farm-deposit-redeposit.png)
 
 ### Data
 
