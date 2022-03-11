@@ -4,9 +4,9 @@
 
 ### 가격 _(1 KLAY = 1300원 기준)_
 
-#### White List Pre-launch: 1BLD : 6.1 KLAY
+#### White List Pre-launch: 1BLD = 6.1 KLAY
 
-#### Public Pre-launch: 1BLD : 6.9 KLAY
+#### Public Pre-launch: 1BLD = 6.9 KLAY
 
 (위의 토큰 가격은 Pre-launch 시작일 기준 KLAY 가격에 따라 약간의 변동이 있을 수 있습니다.)
 
