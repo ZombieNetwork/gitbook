@@ -81,6 +81,8 @@
 
 #### Zombie network Launch: 4월 초 (추후 정확한 오픈일 공개 예정)&#x20;
 
+**Pre-launch 물량 분배 일시 : Zombie network Launch 이후 부터 60일 동안 선형 분배 (락업 물량 전체 Deposit 선택 가능)**
+
 
 
 ## 지원하는 지갑 (Klaytn)
