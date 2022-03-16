@@ -40,5 +40,5 @@ description: >-
 **Direct Airdrop:** 좀비 네트워크 개별 참여자에게 Airdrop을 전송할 수 있는 기능입니다. Airdrop을 수령 받을 참여자의 지갑 주소와 Airdrop 보낼 금액을 입력한 후 보내기(SEND) 버튼을 누르시면 됩니다.
 
 {% hint style="info" %}
-**Airdrop:** 좀비 네트워크의 Airdrop은 일반적인 Airdrop과는 다소 차이가 있습니다. Airdrop을 받을 수 있는 대상은 좀비 네트워크 서비스에 참여하여 최소수량(10 BLD) 이상 예치를 한 사용자 입니다. 그리고 Aiirdrop을 하게 되면 Airdrop을 받은 사용자의 지갑으로 전송되는 것이 아니라 해당 계좌의 좀비 네트워크 예치금으로 직접 전송됩니다. 아울 Airdrop 시에도 BLOOD 토큰 Tax System이 적용되어 10%를 차감하고 90%만이 전송됩니다.
+**Airdrop:** 좀비 네트워크의 Airdrop은 일반적인 Airdrop과는 다소 차이가 있습니다. Airdrop을 받을 수 있는 대상은 좀비 네트워크 서비스에 참여하여 최소수량(10 BLD) 이상 예치를 한 사용자 입니다. 그리고 Aiirdrop을 하게 되면 Airdrop을 받은 사용자의 지갑으로 전송되는 것이 아니라 해당 계좌의 좀비 네트워크 예치금으로 직접 전송됩니다. 아울러 Airdrop 시에도 BLOOD 토큰 Tax System이 적용되어 10%를 차감하고 90%만이 전송됩니다.
 {% endhint %}
