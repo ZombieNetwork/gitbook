@@ -1,30 +1,36 @@
 # IDO Plan
 
-## **IDO 정보**
+## **IDO 정보(확정) \[**<mark style="color:green;">**-40% Sale 적용 & 락업 기간 연장**</mark>**]**
 
 ### 가격 _(1 KLAY = 1330원 기준)_
 
-#### White List Pre-launch: 1BLD = 6 KLAY (약 8000원)
+#### White List Pre-launch: ~~1BLD = 6 KLAY (약 8000원)~~  <mark style="color:green;">-40% Sale !</mark>
 
-#### Public Pre-launch: 1BLD = 6.75 KLAY (약 9000원)
+<mark style="color:green;">**=> 1 BLD = 3.61 KLAY (약 4800원)**</mark>
 
-(위의 토큰 가격은 Pre-launch 시작일 기준 KLAY 가격에 따라 약간의 변동이 있을 수 있습니다.)
+#### Public Pre-launch: ~~1BLD = 6.75 KLAY (약 9000원)~~   <mark style="color:green;">-40% Sale !</mark>
+
+<mark style="color:green;">=></mark> <mark style="color:green;"></mark><mark style="color:green;">**1 BLD = 4.06 KLAY (약 5411원)**</mark>
+
+
 
 ### 판매 수익금 운용 계획 (KLAY)
 
-#### 총 IDO Hard cap : 3,500,000 KLAY&#x20;
+#### 총 IDO Hard cap : ~~3,500,000 KLAY~~  <mark style="color:green;">**=> 2,000,000 KLAY**</mark>
 
-#### 판매량의 80% : 유동성 공급 (280만개)
+#### 판매량의 80% : 유동성 공급 ~~(280만개)~~  <mark style="color:green;">=> (160만개)</mark>
 
-&#x20; \- 1차 유동성 공급 200만 KLAY (서비스 오픈시)
+&#x20; \- 1차 유동성 공급 : ~~200만 KLAY~~ <mark style="color:green;">=>130만  KLAY</mark> (서비스 오픈시)
 
-&#x20; \- 2차 유동성 공급 40만 KLAY (2022년 2분기 중)
+&#x20; \- 2차 유동성 공급 : ~~40만 KLAY~~  => <mark style="color:green;">15만 KLAY</mark> (2022년 2분기 중)
 
-&#x20; \- 3차 유동성 공급 40만 KLAY  (2022년 3분기 중)
+&#x20; \- 3차 유동성 공급 : ~~40만 KLAY~~  <mark style="color:green;">=> 15만 KLAY</mark>(2022년 3분기 중)
 
-#### 판매량의 10% : 개발/마케팅 자원 (35만개)
+#### 판매량의 10% : 개발/마케팅 자원 ~~(35만개)~~ <mark style="color:green;">=> (20만개)</mark>
 
-#### 판매량의 10% : BLOOD 바이백 자원 (35만개)
+#### 판매량의 10% : BLOOD 바이백 자원 ~~(35만개)~~ <mark style="color:green;">=> (20만개)</mark>
+
+
 
 ## **IDO 계획**
 
@@ -42,10 +48,10 @@
 #### **화이트리스트 주소는 최대 500개이며, 세부 내용은 다음과 같습니다.**
 
 * 참여 가능자 : 화이트리스트로 선정된 주소를 소유한 분
-* 인당 참여 가능 수량(Hard cap) **\[10분간 진행]** : 300 \~ 3,000 KLAY
-* 총 Hard cap = 1,500,000 KLAY
-* BLOOD 토큰 수량 : 최대 250,000 BLD
-* BLOOD 토큰 가격 : 1BLD = 6 KLAY → 서비스 초기 시작가의 **20%** Sale (토큰 가격은 Pre-launch 시작일 기준 KLAY 가격에 따라 약간의 변동이 있을 수 있습니다.)
+* 인당 참여 가능 수량(Hard cap) **\[10분간 진행]** : ~~300 \~ 3,000 KLAY~~ <mark style="color:green;">**=> 100 \~ 1,600 KLAY**</mark>
+* 총 Hard cap = ~~1,500,000~~ <mark style="color:green;">=></mark> <mark style="color:green;">**800,000**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> KLAY
+* BLOOD 토큰 수량 : ~~최대 250,000 BLD~~ <mark style="color:green;">=> 최대 222,166 BLD</mark>
+* BLOOD 토큰 가격 : 1 BLD = ~~6 KLAY~~  => <mark style="color:green;">**3.61 KLAY**</mark>→ 서비스 초기 시작가의 **20%** Sale&#x20;
 * 진행 방식 : 화이트리스트 Pre-launch가 시작되고 **10분** 동안은 개인당 Hard cap이 적용되며 10분이 지난 이후부터는 개인당 Hard cap 제한이 사라지고 총 Hard cap 범위 내에서 잔여 수량에 한 해 구매할 수 있도록 진행됩니다.
 
 #### **\* 화이트리스트에 선정되기 위한 방법은 4가지가 있습니다.**
@@ -65,9 +71,9 @@
 ### <mark style="color:blue;">퍼블릭 Pre-launch</mark> &#x20;
 
 * 참여 가능자 : 참여를 원하는 모든 분
-* Hard cap : 2,000,000 KLAY (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
-* BLOOD 토큰 수량 : 296,296 BLD (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
-* BLOOD 토큰 가격 : 1BLD : 6.75 KLAY → 서비스 초기 시작가의 **10%** Sale (토큰 가격은 Pre-launch 시작일 기준 KLAY 가격에 따라 약간의 변동이 있을 수 있습니다.)
+* Hard cap : ~~2,000,000~~ <mark style="color:green;">=></mark> <mark style="color:green;"></mark><mark style="color:green;">**1,200,000**</mark> KLAY (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
+* BLOOD 토큰 수량 : ~~296,296~~ <mark style="color:green;">=> 296,222</mark> BLD (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
+* BLOOD 토큰 가격 : 1BLD = ~~6.75~~ =<mark style="color:green;">**> 4.06**</mark> KLAY → 서비스 초기 시작가의 **10%** Sale&#x20;
 
 ## **IDO 스케줄**
 
@@ -81,7 +87,7 @@
 
 #### Zombie network Launch: 4월 초 (추후 정확한 오픈일 공개 예정)&#x20;
 
-**Pre-launch 물량 분배 일시 : Zombie network Launch 이후 부터 60일 동안 선형 분배 (락업 물량 전체 Deposit 선택 가능)**
+**Pre-launch 물량 분배 일시 : Zombie network Launch 이후 부터 **~~**60일**~~**  **<mark style="color:green;">**=> 90일**</mark>** 동안 선형 분배 (락업 물량 전체 Deposit 선택 가능)**
 
 
 
