@@ -24,7 +24,7 @@
 
 ## 투자자 유의사항 <a href="#notice" id="notice"></a>
 
-* [검증된 핵심 비즈니스 로직 적용](notice/undefined.md)
+* [검증된 핵심 비즈니스 로직 적용](notice/businesslogic.md)
 * [DeFi 문제점과 좀비 네트워크](notice/problems.md)
 * [좀비 네트워크 거래 시 유의 사항](notice/caution\_investment.md)
 * [투자 시뮬레이션 및 투자 전략](notice/simulation.md)
