@@ -16,6 +16,7 @@
 * [Farm](guide/farm.md)
 * [Team](guide/team.md)
 * [NFT Store](guide/nft-store.md)
+* [지갑 이용 가이드](guide/undefined.md)
 
 ## 투자자 유의사항 <a href="#notice" id="notice"></a>
 
