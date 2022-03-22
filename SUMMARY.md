@@ -33,6 +33,7 @@
 * [토큰 가격 변동성에 따른 위험](notice/caution\_price.md)
 * [뱅크런 발생 위험](notice/bankrun.md)
 * [러그풀 위험](notice/rugpull.md)
+* [개발팀 KYC 및 컨트랙트 Audit](notice/kyc-audit.md)
 
 ## 참고 사항 <a href="#note" id="note"></a>
 
