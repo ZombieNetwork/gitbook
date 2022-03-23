@@ -2,7 +2,9 @@
 
 ### 개발팀 KYC 인증
 
-좀비 네트워크 개발팀에 대한 KYC는 현재 Assure DeFi ([https://www.assuredefi.io/](https://www.assuredefi.io))를 통해 진행중입니다. 2022년 3월 25(금)까지는 마무리될 것으로 예상하고 있습니다. 인증 완료 후 관련 인증 결과를 본 백서에 게재할 예정입니다.&#x20;
+좀비 네트워크는 Assure DeFi([https://www.assuredefi.io/](https://www.assuredefi.io))에서 KYC 승인을 받았습니다. 좀비 네트워크 팀은 프로젝트에 대한 커뮤니티의 신뢰를 구축하는 것을 최우선 목표로 하며 좀비 네트워크 서비스의 더 나은 발전과 지속 가능성을 위해 항상 노력하겠습니다. Assure DeFi에서 인증한 KYC 내역은 다음 사이트에서 확인하실 수 있습니다.  [https://www.assuredefi.io/projects/zombie-network](https://www.assuredefi.io/projects/zombie-network/)
+
+![](<../.gitbook/assets/Zombie Network NFT.gif>)
 
 ### 좀비 네트워크 컨트랙트 Audit
 
