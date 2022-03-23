@@ -16,7 +16,7 @@
 * [Farm](guide/farm.md)
 * [Team](guide/team.md)
 * [NFT Store](guide/nft-store.md)
-* [지갑 이용 가이드](guide/undefined.md)
+* [지갑 이용 가이드](guide/connectWallet.md)
 
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
