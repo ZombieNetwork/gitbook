@@ -11,12 +11,13 @@
 
 ## 좀비 네트워크 이용가이드 <a href="#guide" id="guide"></a>
 
+* [지갑 이용 가이드](guide/connectWallet.md)
+* [Pre-launch 가이드](guide/pre-launch.md)
 * [Swap](guide/swap.md)
 * [Staking](guide/staking.md)
 * [Farm](guide/farm.md)
 * [Team](guide/team.md)
 * [NFT Store](guide/nft-store.md)
-* [지갑 이용 가이드](guide/connectWallet.md)
 
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
