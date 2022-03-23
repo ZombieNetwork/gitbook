@@ -8,7 +8,7 @@
 
 Assure DeFi에서 인증한 KYC 내역은 다음 사이트에서 확인하실 수 있습니다.  [https://www.assuredefi.io/projects/zombie-network](https://www.assuredefi.io/projects/zombie-network/)
 
-다음 이미지는 Assure DeFi에서 가 발행한 좀비 네트워크 KYC 인증 NFT 이미지 입니다.
+다음 이미지는 Assure DeFi에서 발행한 좀비 네트워크 KYC 인증 NFT 이미지 입니다.
 
 ![](<../.gitbook/assets/Zombie Network NFT.gif>)
 
