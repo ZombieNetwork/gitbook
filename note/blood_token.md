@@ -19,8 +19,8 @@
 
 |       **Content**       |  **Amount (Ratio)**  |
 | :---------------------: | :------------------: |
-|        Pre-launch       |   573,611 BLD (57%)  |
-|      Initial Supply     |   226,388 BLD (22%)  |
+|        Pre-launch       |   518,388 BLD (51%)  |
+|      Initial Supply     |   281,612 BLD (28%)  |
 | Marketing & Partnership |    50,000 BLD (5%)   |
 |       Development       |   150,000 BLD (15%)  |
 |          Total          | 1,000,000 BLD (100%) |
