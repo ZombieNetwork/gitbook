@@ -4,7 +4,7 @@
 
 좀비 네트워크는 Assure DeFi ([https://www.assuredefi.io/](https://www.assuredefi.io))에서 KYC 인증을 받았습니다.&#x20;
 
-좀비 네트워크 팀은 프로젝트에 대한 커뮤니티의 신뢰를 구축하는 것을 최우선 목표로 하며 좀비 네트워크 서비스의 더 나은 발전과 지속 가능성을 위해 항상 노력하겠습니다.&#x20;
+좀비 네트워크 팀은 프로젝트에 대한 커뮤니티의 신뢰를 구축하는 것을 최우선 목표로 하며, 좀비 네트워크 서비스의 더 나은 발전과 지속 가능성을 위해 항상 노력하겠습니다.&#x20;
 
 Assure DeFi에서 인증한 KYC 내역은 아래 링크에서 확인하실 수 있습니다.  [https://www.assuredefi.io/projects/zombie-network](https://www.assuredefi.io/projects/zombie-network/)
 
