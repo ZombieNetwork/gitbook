@@ -16,7 +16,7 @@
 
 
 
-2\. 원하는 지갑을 선택합니다. PC는 KaiKas, Klip, MetaMask 지갑을 지원하며 모바일로 접속 시에는 Dcent, MetaMask지갑을 지원합니다.&#x20;
+2\. 원하는 지갑을 선택합니다. PC는 KaiKas, Klip, MetaMask 지갑을 지원하며 모바일로 접속 시에는 Dcent, Klip, MetaMask지갑을 지원합니다.&#x20;
 
 ![](../.gitbook/assets/구매화면2.png)
 
