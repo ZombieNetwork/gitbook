@@ -50,7 +50,7 @@
 * 참여 가능자 : 화이트리스트로 선정된 주소를 소유한 분
 * 인당 참여 가능 수량(Hard cap) **\[30분간 진행]** : ~~300 \~ 3,000 KLAY~~ <mark style="color:green;">**=> 100 \~ 1,600 KLAY**</mark>
 * 총 Hard cap = ~~1,500,000~~ <mark style="color:green;">=></mark> <mark style="color:green;">**800,000**</mark> <mark style="color:green;"></mark><mark style="color:green;"></mark> KLAY
-* BLOOD 토큰 수량 : ~~최대 250,000 BLD~~ <mark style="color:green;">=> 최대 221,606.65 BLD</mark>
+* BLOOD 토큰 수량 : ~~최대 250,000 BLD~~ <mark style="color:green;">=> 최대 221,607 BLD</mark>
 * BLOOD 토큰 가격 : 1 BLD = ~~6 KLAY~~  => <mark style="color:green;">**3.61 KLAY**</mark>→ 서비스 초기 시작가의 **20%** Sale&#x20;
 * 진행 방식 : 화이트리스트 Pre-launch가 시작되고 **30분** 동안은 개인당 Hard cap이 적용되며 30분이 지난 이후부터는 개인당 Hard cap 제한이 사라지고 총 Hard cap 범위 내에서 잔여 수량에 한 해 구매할 수 있도록 진행됩니다.
 
@@ -72,7 +72,7 @@
 
 * 참여 가능자 : 참여를 원하는 모든 분
 * Hard cap : ~~2,000,000~~ <mark style="color:green;">=></mark> <mark style="color:green;"></mark><mark style="color:green;">**1,200,000**</mark> KLAY (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
-* BLOOD 토큰 수량 : ~~296,296~~ <mark style="color:green;">=> 295,566.503</mark> BLD (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
+* BLOOD 토큰 수량 : ~~296,296~~ <mark style="color:green;">=> 295,567</mark> BLD (화이트리스트 Pre-launch 참여 인원에 따라 늘어날 수 있습니다.)
 * BLOOD 토큰 가격 : 1BLD = ~~6.75~~ =<mark style="color:green;">**> 4.06**</mark> KLAY → 서비스 초기 시작가의 **10%** Sale&#x20;
 
 ## **IDO 스케줄**
