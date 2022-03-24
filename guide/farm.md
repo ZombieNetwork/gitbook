@@ -9,7 +9,7 @@ description: >-
 
 ![](../.gitbook/assets/farm.PNG)
 
-### ㅠ**Buy & Deposit:Buy & Deposit: BLD-KLAY 유동성 공급 기능**Deposit: BLD-KLAY 유동성 공급 기능
+### **Buy & Deposit: BLD-KLAY 유동성 공급 기능**
 
 BLOOD-KLAY 유동성 풀에 대한 유동성 공급은 KLAY 코인으로 BLOOD 토큰을 구매하면서 BLD-KLAY 페어를 구성하는 형태로 이루어집니다. 현재 지갑에 보유하고 있는 KLAY 수량 중에서 유동성 공급에 예치할 KLAY 수량을 입력하면, 하단에 BLD-KLAY LP 토큰 예상 구매량이 표시됩니다. 구매를 실행하시려면 BUY(구매) 버튼을 클릭하시면 됩니다.
 
