@@ -7,7 +7,7 @@ description: >-
 
 # Team
 
-![](<../.gitbook/assets/Team (1).png>)
+![](../.gitbook/assets/team.PNG)
 
 ### Zombie Team: 추천인 팀 홍보 리스트&#x20;
 
