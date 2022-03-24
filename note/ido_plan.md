@@ -85,7 +85,7 @@
 
 #### 퍼블릭 Pre-launch: 3월 31일(목) 오후 8시 \~ 4월 6일(수) 오후 8시
 
-#### Zombie network Launch: 4월 7일 오후 8시
+#### Zombie network Launch: 4월 7일 오후 8시\~10시
 
 **Pre-launch 물량 분배 일시 : Zombie network Launch 이후 부터 **~~**60일**~~**  **<mark style="color:green;">**=> 90일**</mark>** 동안 선형 분배 (락업 물량 전체 Deposit 선택 가능)**
 
