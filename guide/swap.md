@@ -7,7 +7,7 @@ description: >-
 
 # Swap
 
-![](../.gitbook/assets/Swap.png)
+![](<../.gitbook/assets/swap (1).PNG>)
 
 ### Data
 
