@@ -6,7 +6,7 @@ description: >-
 
 # Staking
 
-![](../.gitbook/assets/Staking-redeposit.png)
+![](<../.gitbook/assets/staking (1).PNG>)
 
 ### Data
 
