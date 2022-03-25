@@ -29,4 +29,9 @@
 
 ### KaiKas 설치 및 사용법
 
-[ https://klaytn-tech.medium.com/groundx%EC%9D%98-%EC%9B%94%EB%A0%9B-1-kaikas-6185191cbab2](https://klaytn-tech.medium.com/groundx%EC%9D%98-%EC%9B%94%EB%A0%9B-1-kaikas-6185191cbab2)
+[ https://klaytn-tech.medium.com/groundx%EC%9D%98-%EC%9B%94%EB%A0%9B-1-kaikas-6185191cbab2](https://klaytn-tech.medium.com/groundx%EC%9D%98-%EC%9B%94%EB%A0%9B-1-kaikas-6185191cbab2)\
+
+
+### Orbit Bridge를 이용한 토큰 메인넷 전환 방법
+
+[https://bridge.orbitchain.io/assets/orbitbridge\_guide\_pc\_ko.pdf](https://bridge.orbitchain.io/assets/orbitbridge\_guide\_pc\_ko.pdf)
