@@ -85,6 +85,13 @@
 
 \- 구매자가 많을 경우 하드캡 유지 시간인 10분안에도 **조기 완판**될 수 있으니 이점 유의해주시기 바랍니다.
 
+
+
+### <mark style="color:blue;">Zombie Network launch</mark>
+
+* 초기 시작가 : 1 BLD = 4.5 KLAY (BLD 1개당 6,000원)
+* BLOOD 토큰 수량 : 282,826 <mark style="color:green;"></mark> BLD
+
 ## **IDO 스케줄**
 
 #### 화이트리스트 신청기간: 3월 10일(목) 오후 8시 \~ 3월 22일(화) 오후 8시
