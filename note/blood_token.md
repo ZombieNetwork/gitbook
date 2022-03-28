@@ -2,7 +2,7 @@
 
 ### BLOOD 토큰 정보
 
-* Ticker: BLD
+* Ticker: BLOOD(BLD)
 * Contract Address:  0x07709260f6C431bc2CB1480F523F4F7c639a5155
 * Chain: Klaytn (Cypress)
 * Format: KIP7 (ERC20)
