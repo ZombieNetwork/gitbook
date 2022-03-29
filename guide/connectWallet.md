@@ -35,3 +35,7 @@
 ### Orbit Bridge를 이용한 토큰 메인넷 전환 방법
 
 [https://bridge.orbitchain.io/assets/orbitbridge\_guide\_pc\_ko.pdf](https://bridge.orbitchain.io/assets/orbitbridge\_guide\_pc\_ko.pdf)
+
+### **Belt.fi를 이용한 swap 방법**
+
+****[https://docs.belt.fi/how-to-guides/cross-chain-swap](https://docs.belt.fi/how-to-guides/cross-chain-swap)
