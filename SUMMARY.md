@@ -12,7 +12,8 @@
 ## 좀비 네트워크 이용가이드 <a href="#guide" id="guide"></a>
 
 * [지갑 이용 가이드](guide/connectWallet.md)
-* [Pre-launch 가이드](guide/pre-launch.md)
+* [화이트리스트 Pre-launch 가이드](guide/pre-launch.md)
+* [퍼블릭 Pre-launch 가이드](guide/pre-launch-1.md)
 * [Swap](guide/swap.md)
 * [Staking](guide/staking.md)
 * [Farm](guide/farm.md)
