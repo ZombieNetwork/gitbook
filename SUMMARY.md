@@ -50,3 +50,4 @@
 * [Telegram (announcement)](https://t.me/zombienetwork\_announce)
 * [Medium](https://medium.com/@zombienetwork)
 * [Twitter](https://twitter.com/ZombieNetworkfi)
+* [Discord](https://discord.gg/nYz7CeVsmX)
