@@ -53,9 +53,9 @@ Bloody를 강화하는 Bloody NFT는 다양한 부위별로 생산되며 각 부
 
 ![](<../.gitbook/assets/NFT 한글4.png>)
 
-5\. Inventory에 있는 NFT에 마우스를 올려 능력치를 확인할 수 있습니다.&#x20;
+5\. Inventory에 있는 NFT에 마우스를 올려 능력치와 ID 번호를 확인할 수 있습니다.&#x20;
 
-![](<../.gitbook/assets/NFT 한글5.png>)
+![](<../.gitbook/assets/NFT 한글52.png>)
 
 6\. 다음은 Bloody NFT 착용에 대한 설명입니다. \
 원하는 Bloody NFT를 선택하면 상단 아바타 영역에 해당 아이템이 장착되며, 아이템을 착용한 Bloody의 모습을 확인 하실 수 있습니다.
