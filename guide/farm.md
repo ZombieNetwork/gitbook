@@ -44,5 +44,5 @@ Rewards(유동성 풀 제공 보상금)으로 얻은 KLAY를 지갑으로 인출
 
 **Compounded Total:** Rewards를 재예치한 KLAY 누적 수량입니다.
 
-**Dividend Pool:** BLD-KLAY 유동성 공급자 보상금 제공을 위한 보상금 Pool입니다.
+**Daily Estimated :** Farm 보상금 풀에서 매일 발생하는 예상 이자 KLAY수량입니다.
 {% endhint %}
