@@ -37,3 +37,70 @@ Available Rewards(처분 가능 이자 수량)을 인출하는 기능입니다. 
 
 **Team:** 추천인 보상 제도 기준으로 하위라인으로 구성된 팀원의 수를 표시합니다. 첫번째 숫자는 해당 투자자를 추천인으로 등록한 1차 하위라인 팀원 수이고, 두번째 숫자는 전체 팀원 수로써 1차 하위라인 팀원 수와 1차 하위라인 팀원들의 하위라인으로 구성된 전체 팀원 수입니다. 총 15단계의 하위라인까지 팀원으로 구성됩니다.
 {% endhint %}
+
+
+
+### 이용 방법
+
+1. Staking 메뉴에서 BLOOD토큰을 예치할 수 있습니다. Deposit 기능을 이용하기 위해 Approve를 진행해야 합니다. Approve 버튼을 클릭해 트랜잭션을 확인합니다.
+
+![](../.gitbook/assets/스테이킹1.png)
+
+2\. Deposit 버튼이 활성화되면 예치할 BLOOD 토큰을 입력하고 Deposit 버튼을 클릭합니다. 첫 예치시 필요한 최소 BLOOD 개수는 5개 이상이여야 하며 tax와 상관없이 5이상의 BLOOD를 수량으로 입력하셔야 합니다. 첫 예치 이후에 필요한 최소 BLOOD 개수는 1개 이상입니다. \
+**\***Deposit시 10%의 TAX가 발생합니다.
+
+![](../.gitbook/assets/스테이킹2.png)
+
+3\. 첫번째 예치시 팀이 등록되어 있지 않다면 해당 알림이 나타납니다. 좀비 네트워크에서 BLOOD 토큰을 예치하기 위해서는 반드시 사전에 팀 등록이 필요합니다.
+
+1\) ’Get a Team’ 버튼을 눌러 팀 페이지로 이동하여 팀을 추가하거나\
+2\) Support Community 버튼을 눌러 개발 팀 지갑을 팀장 지갑으로 추가합니다.
+
+![](../.gitbook/assets/스테이킹3.png)
+
+4\. 팀 등록을 마친 뒤 Staking 메뉴로 돌아와 예치할 BLOOD 토큰을 입력한 후 Deposit 버튼을 클릭하여 트랜잭션을 진행합니다.
+
+![](../.gitbook/assets/스테이킹2.png)
+
+5\. 아래 화면에서 예치된 BLOOD 토큰을 확인하실 수 있습니다.
+
+* Available Rewards : 예치하여 발생한 하루 1%의 보상이자를 표시한 수량입니다.&#x20;
+* Deposits : 예치된 BLOOD 토큰의 총 수량입니다.&#x20;
+* Claimed : BLOOD 토큰을 예치하여 발생한 이자를 Claim하거나 Compound한 총 수량입니다.&#x20;
+* Compounded : BLOOD 토큰을 예치하여 발생한 이자를 Compound한 수량입니다.&#x20;
+* Referral Rewards : 하위라인의 예치, 재예치시 발생한 보상 수량입니다.&#x20;
+* Max Payout(최대 인출 가능 수량) : 이자로 지급될 수 있는 최대 BLOOD 토큰의 수량입니다. 누적 예치금의 365%까지 인출이 가능합니다.&#x20;
+* Team : 하위라인으로 구성된 팀원의 수입니다. 첫번째 숫자는 1차 하위라인에 존재하는 팀원 수이고, 두번째 숫자는 자신으로부터 연결된 하위 15라인까지의 전체 유저 수입니다.
+
+![](../.gitbook/assets/스테이킹4.png)
+
+\***주의사항** : Deposit시 Deposit 금액의 1% 이상에 해당되는 Available Reward가 쌓여있을 경우 Reward에 있는 BLD 토큰은 자동으로 재예치됩니다. Reward에 있는 BLD 토큰의 수량이 Deposit 금액의 1% 미만일 경우 재예치되지 않고 소멸됩니다. 해당 부분은 Compound(재예치시)가 아닌 새로 추가 Deposit(예치)할 때 발생합니다.&#x20;
+
+(예시1) 100BLD를 Deposit할 때 Reward에 2BLD가 쌓여있다면 예치시 100BLD에서 10% 차감된 90BLD가 예치되고 2BLD는 재예치되기 때문에 5% 차감된 1.9BLD가 예치됩니다. 따라서 총 91.9BLD가 예치됩니다.
+
+(예시2) 100BLD를 Deposit할 때 Reward에 0.5BLD가 쌓여있다면 예치시 100BLD에서 10% 차감된 90BLD만 예치되고 Reward에 쌓인 0.5BLD는 Deposit 금액의 1% 미만이기 때문에 소멸됩니다.
+
+
+
+6\. BLOOD 토큰을 예치하여 발생한 이자를 Compound 하거나 Claim 할 수 있습니다.&#x20;
+
+Compound : 이자를 재예치하는 기능입니다. 5%의 TAX가 발생합니다. \
+Claim : 이자를 인출하는 기능입니다. 10%의 TAX가 발생합니다.
+
+![](../.gitbook/assets/리워드1.png)
+
+7\. BLOOD 토큰을 예치하여 발생할 이자를 Compound할 경우 Compound 버튼을 눌러 트랜잭션을 완료합니다.
+
+![](../.gitbook/assets/리워드2.png)
+
+8\. 트랜잭션을 완료하면 아래 사진과 같이 5% TAX를 제외한 수량이 Deposits에 추가됩니다. Compound의 경우 이자를 인출한 뒤 예치하는 것을 도와주는 기능이므로 Claimed에도 수량이 추가됩니다.
+
+![](../.gitbook/assets/리워드3.png)
+
+9\. BLOOD 토큰을 예치하여 발생할 이자를 Claim할 경우 Claim 버튼을 눌러 트랜잭션을 완료합니다.
+
+![](../.gitbook/assets/리워드4.png)
+
+10\. 트랜잭션을 완료하면 10% TAX를 제외한 BLOOD 토큰이 지갑에 추가됩니다. Claimed에도 Claim한 수량이 추가됩니다.
+
+![](../.gitbook/assets/리워드5.png)
