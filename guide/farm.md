@@ -46,3 +46,61 @@ Rewards(유동성 풀 제공 보상금)으로 얻은 KLAY를 지갑으로 인출
 
 **Daily Estimated :** Farm 보상금 풀에서 매일 발생하는 예상 이자 KLAY수량입니다.
 {% endhint %}
+
+
+
+### 이용 방법
+
+1. Zombienetwork 유동성을 공급하여 보상 이자를 얻을 수 있는 Blood Reservoir 페이지에 대한 설명입니다.
+
+![](../.gitbook/assets/팜한1.png)
+
+2\. 입력칸에 보유하고 있는 KLAY 수량 중 유동성공급하고자 하는 KLAY 수량을 입력하신 뒤 Deposit 버튼을 클릭합니다. \
+Reservoir도 마찬가지로 Buy / Sell 할때 10%의 세금이 발생하며 각각의 세금은 모두 유동성 공급자들을 위한 보상과 소각으로 이동합니다.
+
+* 받게 될 예상 수량 : 현재 Swap 페이지에 존재하는 유동성량의 비율을 고려하여 측정된 예상 수량입니다.(세금이 적용된 수량입니다)
+
+![](<../.gitbook/assets/팜한1 복사본.png>)
+
+3\. 트랜잭션을 승인하신 후 Deposit이 완료되면 아래 Reward Board에 구매후 예치한 정보가 표시됩니다.
+
+* Available Rewards : 수령가능한 보상 KLAY를 의미합니다.
+* Total BLD-KLAY : 구매 후 예치되어 있는 누적 BLD-KLAY LP 수량입니다.
+* Share Ratio : 현재 Blood Reservoir을 통해 공급된 전체 LP 양 중 자신의 BLD-KLAY LP양의 비율을 나타내며 지분율을 의미합니다.
+* Total Withdrawn : 예치된 LP를 예치해제 후 인출한 수량을 의미합니다.
+* Compounds : 재예치한 횟수를 의미합니다.
+* Compounded Total : 재예치한 누적 금액을 의미합니다.
+* Daily Estimated : Farm 보상금 풀에서 매일 발생하는 예상 이자 KLAY수량입니다.
+
+![](../.gitbook/assets/팜한2.png)
+
+4\. Compound 버튼을 누르면 Available Rewards에 있는 KLAY 수량이 재예치 됩니다.
+
+![](<../.gitbook/assets/팜한3 복사본.png>)
+
+5\. Claim 버튼을 누르면 Available Rewards에 존재하는 KLAY수량이 지갑으로 이동합니다.
+
+![](<../.gitbook/assets/팜한4 복사본.png>)
+
+6\. Withdraw 탭으로 이동하여 예치중인 BLD-KLAY LP 수량 중 원하는 수량을 입력한 뒤 Withdraw 버튼을 클릭하여 트랜잭션을 실행합니다.
+
+![](../.gitbook/assets/팜한5.png)
+
+7\. Withdraw가 완료되면 해당 LP만큼에 해당하는 KLAY 수량이 Available Reward 영역에 추가됩니다.
+
+![](../.gitbook/assets/팜한6.png)
+
+8\. 해당금액을 지갑으로 보내기 위해서는 위의 방법과 마찬가지로 Claim 버튼을 클릭하여 트랜잭션을 실행합니다. 트랜잭션이 완료되면 Total Withdrawn에 해당 금액만큼이 추가됩니다.
+
+![](../.gitbook/assets/팜한7.png)
+
+9\. Stats 영역에서는 Blood Reservoir 컨트랙트에 존재하는 정보들을 확인할 수 있습니다.
+
+* TVL : 세금을 제외하고 Reservoir를 통해 공급한 유동성 공급량의 KLAY 가치를 의미합니다.
+* Reward Pool : 유동성공급자들에게 매일 2%의 보상을 지급해주는 보상풀을 의미합니다.
+* APR : 보상풀에서 발생하는 매일 2%의 보상이자를 1년 단리로 계산한 수치입니다.
+* Contract balance : Reservoir을 통해 공급된 유동성의 총 KLAY 수량을 의미합니다.
+* Lock Balance : 유동성 공급시 발생하는 3%의 세금이 쌓이는 공간이며 해당 물량은 소각됩니다.
+* Players : 유동성공급에 참여한 참여자들 수입니다.
+
+![](../.gitbook/assets/팜한8.png)
