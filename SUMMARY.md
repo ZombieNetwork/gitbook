@@ -19,6 +19,7 @@
 * [Farm](guide/farm.md)
 * [Team](guide/team.md)
 * [NFT Store](guide/nft-store.md)
+* [FAQ](guide/faq.md)
 
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
