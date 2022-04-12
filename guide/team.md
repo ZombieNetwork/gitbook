@@ -119,7 +119,10 @@ address칸에 입력한 지갑주소가 좀비네트워크에 아직 예치하�
 
 * Direct/ Team : 자신의 직계 하위라인 팀원수 / 하위 15단계 까지의 총 팀원 수
 * NDV score : 순예치금액 점수를 확인 할 수 있습니다.
-* Airdrop sent/ received : 에어드랍한 총 BLD양과 에어드랍 받은 총 BLD양을 나타냅니다.
+*   Airdrop sent/ received : 에어드랍한 총 BLD양과 에어드랍 받은 총 BLD양을 나타냅니다.\
+
+
+    **\***팀원의 예치, 재예치시 되돌려 받는 2.5%의 해당하는 금액이 에어드랍의 형태로 지급되기 때문에 Airdrop Sent와 Received에 각각 2.5%에 해당되는 BLD가 추가됩니다.
 
 ![](../.gitbook/assets/팀한4.png)
 
