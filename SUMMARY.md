@@ -20,6 +20,7 @@
 * [Team](guide/team.md)
 * [NFT Store](guide/nft-store.md)
 * [FAQ](guide/faq.md)
+* [Opensea 이용 가이드](guide/opensea.md)
 
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
