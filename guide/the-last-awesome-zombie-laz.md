@@ -52,6 +52,8 @@ LAZ는 이러한 문제를 해결하기 위해 새로운 패러다임을 제공�
 
 ## 토크노믹스
 
+
+
 **1. 기본 구**
 
 |          | Deposit (1 BLD) | Compound (1 BLD) | Direct Participate (2 BLD) |
