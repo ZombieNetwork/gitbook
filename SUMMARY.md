@@ -21,7 +21,7 @@
 * [NFT Store](guide/nft-store.md)
 * [Opensea 이용 가이드](guide/opensea.md)
 * [FAQ](guide/faq.md)
-* [The Last Awesome Zombie (LAZ)](guide/the-last-awesome-zombie-laz.md)
+* [The Last Awesome Zombie (LAZ)](guide/laz.md)
 
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
