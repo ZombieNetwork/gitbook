@@ -108,3 +108,84 @@ LAZ 는 다른 유사 프로젝트들과는 달리 차별화된 투자자 친화
    이중 90%인 2,835 BLD가 우승자에게 전달됩니다. \
    나머지 10% 중 9%인 283.5 BLD가 Tax Pool로 이동하며, \
    1%인 29.35 BLD가 개발/마케팅 풀로 이동합니다.
+
+
+
+## LAZ 이용가이드
+
+1. 사이트 메뉴 상단에 LAZ 메뉴가 존재합니다. 좀비 네트워크에서 LAZ를 이용해 더 많은 수익을 창출할 수 있습니다.
+
+![](../.gitbook/assets/laz-docs1.png)
+
+2\. 게임이 시작된 화면은 다음과 같습니다. 게임에 참가한 후 일정 시간 안에 그 다음 참가자가 들어오지 않았을 시 게임에 승리하게 됩니다.
+
+![](../.gitbook/assets/laz-docs2.png)
+
+* TOTAL PRIZE: LAZ 우승 상금(이월된 금액 + 참가 금액)
+* TIME LEFT: LAZ 게임 참가자가 승리시까지 남은 시간
+
+
+
+![](../.gitbook/assets/laz-docs3.png)
+
+* WINNER’S SHARE: 우승자가 실제로 받게될 상금
+* TAX SHARE: 상금풀 중 Tax pool 및 개발/마케팅 자금으로 쓰일 금액
+* LAST BUYER: 마지막으로 게임에 참가한 사람의 지갑주소(우승 후보)
+* BIG BANG: 빅뱅이 발생 되는 금액(상금풀이 쌓여 빅뱅 수량만큼 쌓이면 빅뱅이 일어나 게임이 종료된다.)
+
+
+
+### LAZ 게임 참여 방법
+
+* LAZ 게임에 참가할 수 있는 방법은 3가지가 있습니다.
+  * LAZ Deposit
+  * LAZ Compound
+  * LAZ Direct Participate
+
+#### 1. LAZ Deposit
+
+1-1) “Play with Staking” 버튼 or 헤더의 “Staking” 메뉴를 클릭해서 좀비네트워크의 Staking 페이지로 이동합니다.
+
+![](../.gitbook/assets/laz-docs4.png)
+
+![](../.gitbook/assets/laz-docs5.png)
+
+1-2) BLD 토큰 개수를 10개 이상 입력후 “LAZ Deposit” 버튼을 클릭합니다.
+
+주의: LAZ Deposit으로 예치할 경우 BLD 토큰을 최소 10개 이상 BLD 토큰이 필요합니다.
+
+![](../.gitbook/assets/laz-docs6.png)
+
+1-3) 다음과 같이 예치를 확인하는 모달 화면이 나타납니다. “LAZ Deposit” 버튼을 클릭하여 예치 및 LAZ 게임에 참가합니다.
+
+![](../.gitbook/assets/laz-docs7.png)
+
+#### 2. LAZ Compound
+
+2-1) Reward Board에 “LAZ Compound” 버튼을 클릭합니다. BLD 보상 토큰이 재예치 되면서 10 BLD는 LAZ 게임 참가 비용으로 사용됩니다.
+
+주의: Available Rewards로 보상 받을 BLD 토큰이 최소 10개 이상 필요합니다.
+
+![](../.gitbook/assets/laz-docs8.png)
+
+2-2) 다음과 같이 재예치를 확인하는 모달 화면이 나타납니다. “LAZ Compound” 버튼을 클릭하여 재예치 및 LAZ 게임에 참가합니다.
+
+![](../.gitbook/assets/laz-docs9.png)
+
+#### 3. LAZ Direct Participate
+
+3-1) LAZ 화면에서 “Play Now” 버튼을 클릭합니다.
+
+![](../.gitbook/assets/laz-docs10.png)
+
+3-2) 다음과 같이 게임 참가를 확인하는 모달 화면이 나타납니다. “Play” 버튼을 클릭하여 LAZ 게임에 참가합니다. 지갑에 2BLD를 소모하여 게임에 참가합니다.
+
+주의: 지갑에 2BLD 이상 소지해야 게임에 참가할 수 있습니다. LAZ를 우승할 시 우승 상금은 Airdrop 방식이며 우승자의 예치금으로 지급됩니다. 따라서 airdrop을 받기 위해 최소 1회 예치를 해야만 합니다.
+
+![](../.gitbook/assets/laz-docs11.png)
+
+### 빅뱅
+
+* 우승 상금이 빅뱅 목표치에 도달할 시 빅뱅이 발생하여 게임은 종료됩니다.
+
+![](../.gitbook/assets/laz-docs12.png)
