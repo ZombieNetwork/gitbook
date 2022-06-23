@@ -23,6 +23,10 @@
 * [FAQ](guide/faq.md)
 * [The Last Awesome Zombie (LAZ)](guide/the-last-awesome-zombie-laz.md)
 
+## 파트너십
+
+* [UFO swap을 활용한 좀비전략](undefined-1/ufo-swap.md)
+
 ## DAO 생태계 구축 <a href="#DAO" id="DAO"></a>
 
 * [좀비 네트워크 DAO 생태계 구축](DAO/dao.md)
