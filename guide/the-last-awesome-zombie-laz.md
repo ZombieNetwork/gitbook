@@ -155,7 +155,8 @@ LAZ 는 다른 유사 프로젝트들과는 달리 차별화된 투자자 친화
 
 1-2) BLD 토큰 개수를 10개 이상 입력후 “LAZ Deposit” 버튼을 클릭합니다.
 
-주의: LAZ Deposit으로 예치할 경우 BLD 토큰을 최소 10개 이상 BLD 토큰이 필요합니다.
+(주의: LAZ Deposit으로 예치할 경우 BLD 토큰을 최소 10개 이상 BLD 토큰이 필요합니다.\
+아직 Deposit에 대한 Approve가 최초 1회 승인되어 있지 않으면 이용이 불가능하므로, 초록색 Approve 버튼을 먼저 클릭하여 승인하신 후 이용해주시기 바랍니다.)
 
 ![](../.gitbook/assets/laz-docs6.png)
 
