@@ -22,7 +22,7 @@
 * [Opensea 이용 가이드](guide/opensea.md)
 * [FAQ](guide/faq.md)
 * [The Last Awesome Zombie (LAZ)](guide/the-last-awesome-zombie-laz.md)
-* [Lottery Obsessed Zombie (LOZ)](guide/lottery-obsessed-zombie-loz.md)
+* [The Lottery Obsessed Zombie (LOZ)](guide/the-lottery-obsessed-zombie-loz.md)
 
 ## 파트너쉽 <a href="#partnership" id="partnership"></a>
 
